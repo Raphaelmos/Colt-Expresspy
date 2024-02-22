@@ -17,6 +17,7 @@ from bandit import *
 # game.title("rd")
 # game.geometry("800x600")
 # Code explained in every part and can also have a english version in the future 
+# Problems can appear if everything isn't installed for example the music and mp3 format can witness issues 
 class Jeu(tk.Tk):
     def __init__(self):    
         
